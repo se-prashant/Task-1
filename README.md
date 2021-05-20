@@ -1,2 +1,2 @@
 # Task-1
- functional components of Web Design
+ Functional components of Web Design
